@@ -1,3 +1,3 @@
 source 'https://rubygems.org'
 
-gem 'ruby-oembed', '0.16.1'
+gem 'ruby-oembed', '0.18.1'
