@@ -1,9 +1,10 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    ruby-oembed (0.16.1)
+    ruby-oembed (1.0.0)
+
+PLATFORMS
+  x86_64-linux
 
 DEPENDENCIES
-  ruby-oembed (~> 0.16.0)
-
-
+  ruby-oembed (~> 1.0.0)
